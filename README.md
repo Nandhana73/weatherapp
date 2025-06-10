@@ -4,5 +4,7 @@ This is a basic weather app made using HTML,CSS,JAVASCRIPT.It uses a free weathe
 - real-time weather data
 - city search
 -weather icons
-#JOURNEY
+## CREDITS
 Built this project as a source of information through various way as a part of my learning journey
+## AUTHOR
+NANDHANA73
